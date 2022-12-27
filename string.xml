@@ -1,0 +1,7 @@
+& with &amp;
+> with &gt;
+< with &lt;
+" with &quot;, &ldquo; or &rdquo;
+' with &apos;, &lsquo; or &rsquo;
+} with &#125;
+Just to clarify: use `setText("\u2022 Bullet");` to add the bullet programmatically. `0x2022 = 8226`
