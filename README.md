@@ -1,1 +1,1 @@
-# Android basic & important elements that we always need to use it.
+# Android basic & important elements that we always need to use.
